@@ -2,7 +2,8 @@
 Created a rotational cipher in C for Harvard CS50
 
 Problem set parameters:
-{
+
+
 Design and implement a program, caesar, that encrypts messages using Caesar’s cipher.
 
 Implement your program in a file called caesar.c in a directory called caesar.
@@ -22,4 +23,4 @@ Your program must output ciphertext: (with one space but without a newline) foll
 Your program must preserve case: capitalized letters, though rotated, must remain capitalized letters; lowercase letters, though rotated, must remain lowercase letters.
 
 After outputting ciphertext, you should print a newline. Your program should then exit by returning 0 from main.
-}
+
